@@ -20,7 +20,7 @@
 
   <!-- 카드 3 -->
   <div style="width: 250px; text-align: center;">
-    <img src="천랑성이.jpg" alt="천랑성이" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="천랑성.jpg" alt="천랑성" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
     <audio controls style="margin-top: 10px; width: 100%;">
       <source src="정의택.mp3" type="audio/mpeg">
     </audio>
@@ -124,7 +124,7 @@
 
 <!-- 카드 16 -->
   <div style="width: 250px; text-align: center;">
-    <img src="길봉.jpg" alt="길봉" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="율목.jpg" alt="율목" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
     <audio controls style="margin-top: 10px; width: 100%;">
       <source src="이경태.mp3" type="audio/mpeg">
     </audio>
@@ -142,7 +142,7 @@
   <div style="width: 250px; text-align: center;">
     <img src="백매.jpg" alt="백매" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
     <audio controls style="margin-top: 10px; width: 100%;">
-      <source src="이주승.mp3" type="audio/mpeg">
+      <source src="이상준.mp3" type="audio/mpeg">
     </audio>
   </div>
 
@@ -236,9 +236,9 @@
 
 <!-- 카드 30 -->
   <div style="width: 250px; text-align: center;">
-    <img src="녹담.jpg" alt="녹담" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="담청비.jpg" alt="담청비" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
     <audio controls style="margin-top: 10px; width: 100%;">
-      <source src="김예림.mp3" type="audio/mpeg">
+      <source src="원에스더.mp3" type="audio/mpeg">
     </audio>
   </div>
 
@@ -270,7 +270,7 @@
   </div>
 
 <div style="width: 250px; text-align: center;">
-    <img src="마고jpg" alt="마고" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="마고.jpg" alt="마고" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
     <audio controls style="margin-top: 10px; width: 100%;">
       <source src="박지윤.mp3" type="audio/mpeg">
     </audio>
