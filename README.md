@@ -1,6 +1,11 @@
 <!-- 카테고리: 플레이어볼 -->
 <h2 style="margin-top: 60px; font-size: 24px; border-bottom: 2px solid #999; padding-bottom: 5px;">플레이어볼</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+<div style="
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+  justify-items: center;
+">
 
   <!-- 카드 1 -->
   <div style="width: 250px; text-align: center;">
