@@ -92,7 +92,7 @@
 
 <!-- 카드 12 -->
   <div style="width: 250px; text-align: center;">
-    <img src="은담.jpg" alt="은담" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="비류.jpg" alt="비류" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
     <audio controls style="margin-top: 10px; width: 100%;">
       <source src="장민혁.mp3" type="audio/mpeg">
     </audio>
@@ -108,7 +108,7 @@
 
 <!-- 카드 14 -->
   <div style="width: 250px; text-align: center;">
-    <img src="이름미정.jpg" alt="이름미정" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="연.jpg" alt="연" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
     <audio controls style="margin-top: 10px; width: 100%;">
       <source src="민승우.mp3" type="audio/mpeg">
     </audio>
@@ -140,7 +140,7 @@
 
 <!-- 카드 18 -->
   <div style="width: 250px; text-align: center;">
-    <img src="백매.jpg" alt="백매" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="백귀.jpg" alt="백귀" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
     <audio controls style="margin-top: 10px; width: 100%;">
       <source src="이상준.mp3" type="audio/mpeg">
     </audio>
@@ -150,7 +150,7 @@
   <div style="width: 250px; text-align: center;">
     <img src="덕춘.jpg" alt="덕춘" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
     <audio controls style="margin-top: 10px; width: 100%;">
-      <source src="김선혜.mp3" type="audio/mpeg">
+      <source src="오로아.mp3" type="audio/mpeg">
     </audio>
   </div>
 
@@ -212,7 +212,7 @@
 
 <!-- 카드 27 -->
   <div style="width: 250px; text-align: center;">
-    <img src="도연.jpg" alt="도연" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="구마리.jpg" alt="구마리" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
     <audio controls style="margin-top: 10px; width: 100%;">
       <source src="이지현.mp3" type="audio/mpeg">
     </audio>
@@ -242,6 +242,21 @@
     </audio>
   </div>
 
+<!-- 카드 31 -->
+  <div style="width: 250px; text-align: center;">
+    <img src="청구.jpg" alt="청구" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <audio controls style="margin-top: 10px; width: 100%;">
+      <source src="윤용식.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+
+<!-- 카드 32 -->
+  <div style="width: 250px; text-align: center;">
+    <img src="무령.jpg" alt="무령" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <audio controls style="margin-top: 10px; width: 100%;">
+      <source src="송하림.mp3" type="audio/mpeg">
+    </audio>
+  </div>
 
 
 
